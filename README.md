@@ -1,2 +1,2 @@
 # srs-project
-student project
+students project
